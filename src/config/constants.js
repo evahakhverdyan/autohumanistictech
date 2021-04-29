@@ -1,0 +1,11 @@
+export const EXAM_TIME = 1200;
+
+export const ADDITIONAL_EXAM_TIME = 300;
+
+export const ADDITIONAL_TIKETS_POSITION = 20;
+
+export const SECOND_ADDITIONAL_TIKETS_POSITION = 25;
+
+export const ADDITIONAL_TIKETS_СOUNT = 5;
+
+export const LIMIT_RANDOM_TIMES = 30;

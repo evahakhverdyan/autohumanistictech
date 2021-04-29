@@ -1,0 +1,45 @@
+export const GET_USER = 'GET_USER';
+
+export const GET_VIDEO = 'GET_VIDEO';
+
+export const GET_TICKETS = 'GET_TICKETS';
+
+export const SELECTED_TOPIC = 'SELECTED_TOPIC';
+
+export const GET_TOPIC_TICKETS = 'GET_TOPIC_TICKETS';
+
+export const GET_EXAM_TICKETS = 'GET_EXAM_TICKETS';
+
+export const UPDATE_RESULT = 'UPDATE_RESULT';
+
+export const NEXT_TICKET = 'NEXT_TICKET';
+
+export const RESET_TICKET = 'RESET_TICKET';
+
+export const ERROR_TOPIC = 'ERROR_TOPIC';
+
+export const GET_CURRENT_ERROR_TICKET = 'GET_CURRENT_ERROR_TICKET';
+
+export const SET_ATTEMPT = 'SET_ATTEMPT';
+
+export const GET_NEXT_ERROR_TICKET = 'GET_NEXT_ERROR_TICKET';
+
+export const RESET_ERROR_TICKET = 'RESET_ERROR_TICKET';
+
+export const USER_STATE_CHANGE = 'USER_STATE_CHANGE';
+
+export const USER_STATE_CLEAR = 'USER_STATE_CLEAR';
+
+export const UN_ACCOUNT_USER = 'UN_ACCOUNT_USER';
+
+export const UPDATE_EXAM_RESULT = 'UPDATE_EXAM_RESULT';
+
+export const RESET_EXAM_RESULT = 'RESET_EXAM_RESULT';
+
+export const IS_EXAM_ACTIVE = 'IS_EXAM_ACTIVE';
+
+export const GET_EXAM_ATTEMPTS = 'GET_EXAM_ATTEMPTS';
+
+export const FETCH_STATISTIC = 'FETCH_STATISTIC';
+
+export const RESET_STATISTIC = 'RESET_STATISTIC';
